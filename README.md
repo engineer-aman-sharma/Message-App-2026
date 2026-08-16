@@ -56,28 +56,28 @@ The UI uses flexible Jetpack Compose layouts rather than fixed screen dimensions
 
 ## Screenshots
 
+[Visit the screenshots folder](./screenshots/) to view all screenshots.
+
 <table>
   <tr>
-    <td width="33.33%">
-      <img src="screenshots/Screenshot_1.jpg" width="100%" />
-    </td>
-    <td width="33.33%">
-      <img src="screenshots/Screenshot_2.jpg" width="100%" />
-    </td>
-    <td width="33.33%">
-      <img src="screenshots/Screenshot_3.jpg" width="100%" />
-    </td>
+    <td width="33.33%"><img src="screenshots/Screenshot_1.jpg" width="100%" /></td>
+    <td width="33.33%"><img src="screenshots/Screenshot_2.jpg" width="100%" /></td>
+    <td width="33.33%"><img src="screenshots/Screenshot_3.jpg" width="100%" /></td>
   </tr>
   <tr>
-    <td width="33.33%">
-      <img src="screenshots/Screenshot_4.jpg" width="100%" />
-    </td>
-    <td width="33.33%">
-      <img src="screenshots/Screenshot_5.jpg" width="100%" />
-    </td>
-    <td width="33.33%">
-      <img src="screenshots/Screenshot_6.jpg" width="100%" />
-    </td>
+    <td width="33.33%"><img src="screenshots/Screenshot_4.jpg" width="100%" /></td>
+    <td width="33.33%"><img src="screenshots/Screenshot_5.jpg" width="100%" /></td>
+    <td width="33.33%"><img src="screenshots/Screenshot_6.jpg" width="100%" /></td>
+  </tr>
+  <tr>
+    <td width="33.33%"><img src="screenshots/Screenshot_7.jpg" width="100%" /></td>
+    <td width="33.33%"><img src="screenshots/Screenshot_8.jpg" width="100%" /></td>
+    <td width="33.33%"><img src="screenshots/Screenshot_9.jpg" width="100%" /></td>
+  </tr>
+  <tr>
+    <td width="33.33%"><img src="screenshots/Screenshot_10.jpg" width="100%" /></td>
+    <td width="33.33%"><img src="screenshots/Screenshot_11.jpg" width="100%" /></td>
+    <td width="33.33%"><img src="screenshots/Screenshot_12.jpg" width="100%" /></td>
   </tr>
 </table>
 
