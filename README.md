@@ -91,6 +91,11 @@ The screenshots were taken during development before the final delivery. The dev
 
 15 August 2026
 
+## Project Details
+
+- Package Name: `com.message.glass.nine`
+- Status: Client Project — UI, features, and availability may change in the future.
+
 ## Source Code
 
 The source code is not included in this repository because this was a client project and the application was delivered privately.
